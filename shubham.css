@@ -1,0 +1,405 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Inter&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+body {
+    width: 1440px;
+    height: 1844px;
+    background: #F3F3F3;
+
+
+}
+
+.navigationbar {
+    position: absolute;
+    top: 102px;
+    left: 160px;
+    width: 1120px;
+    height: 35px;
+
+
+}
+
+.work {
+    position: absolute;
+    top: 13px;
+    left: 735.09px;
+    width: 50px;
+    height: 25px;
+    padding: 0, 0.8%, 0%, -25%;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+
+
+}
+
+.about {
+    position: absolute;
+    top: 13px;
+    left: 816.44px;
+    width: 59px;
+    height: 25px;
+    padding: 0%, -0.8%, 0%, -25%;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+
+
+
+
+}
+
+a {
+    color: #181717;
+}
+
+.playground {
+    position: absolute;
+    top: 13px;
+    left: 906.71px;
+    width: 105px;
+    height: 25px;
+    padding: 0%, -0.8%, 0%, -25%;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+
+}
+
+
+.contact {
+    position: absolute;
+    top: 13px;
+    left: 1042.62px;
+    width: 78px;
+    height: 25px;
+    padding: 0%, -0.8%, 0%, -25%;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+
+}
+
+.section {
+    position: absolute;
+    top: 360px;
+    left: 160px;
+    width: 1120px;
+    height: 1242px;
+    display: flex;
+    flex-direction: column;
+
+
+
+
+}
+
+.aboutme {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1120px;
+    height: 590px;
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+
+.myname {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 480px;
+    height: 199px;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 97.2%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+
+}
+
+.profilesumary {
+    position: absolute;
+    top: 231px;
+    left: 0;
+    width: 575px;
+    height: 359px;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 117%;
+    letter-spacing: -0.03em;
+    color: #606060;
+
+
+
+}
+
+.imagebox {
+    position: absolute;
+    width: 421px;
+    height: 590px;
+    top: 0;
+    right: 0;
+
+
+}
+
+.contactme {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 1120px;
+    height: 166px;
+
+
+
+}
+
+.nextproject {
+    position: absolute;
+    top: 73px;
+    left: 0;
+    width: 347px;
+    height: 71px;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 117%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+
+
+
+}
+
+.arrow {
+    position: absolute;
+    top: 39px;
+    left: 259px;
+    width: 21px;
+    height: 24px;
+}
+
+.mailid {
+    position: absolute;
+    top: 80px;
+    left: 669px;
+    width: 372px;
+    height: 37px;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 117%;
+    letter-spacing: -0.03em;
+    color: #181717;
+
+
+}
+
+.viewresume {
+    position: absolute;
+    top: 144px;
+    right: 314px;
+    width: 110px;
+    height: 22px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 121.5%;
+    letter-spacing: -0.03em;
+}
+
+hr {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1120px;
+    height: 2px;
+    background: #181717;
+    border: 1px solid #181717;
+}
+
+.footer {
+    position: absolute;
+    top: 1772px;
+    left: 160px;
+    height: 20px;
+    width: 1120px;
+
+
+}
+
+.footer {
+    position: absolute;
+    top: 1772px;
+    left: 160px;
+    width: 1120px;
+    height: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.namedate {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 270.82px;
+    height: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #2429AF;
+
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    position: relative;
+    left: 400px;
+    width: 98.21px;
+    height: 20px;
+    list-style-type: none;
+    font-family: 'DM Sans', sans-serif;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 21px;
+    line-height: 120%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+
+.info {
+    position: absolute;
+    top: 749px;
+    left: 160px;
+    width: 623px;
+    height: 216px;
+
+
+
+}
+
+.mainsoft {
+    position: absolute;
+    top: 3px;
+    left: 0;
+    width: 124px;
+    height: 20px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 121.5%;
+    letter-spacing: -0.03em;
+    text-decoration-line: underline;
+    color: #181717;
+
+
+}
+
+.soft {
+    position: absolute;
+    top: 0px;
+    left: 187px;
+    width: 436pxpx;
+    height: 54px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 121.5%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+
+.adob {
+    position: absolute;
+    top: 78px;
+    left: 188px;
+    width: 213pxpx;
+    height: 22px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 121.5%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
+
+.mainskill {
+    position: absolute;
+    top: 175px;
+    left: 0;
+    width: 124px;
+    height: 20px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 121.5%;
+    letter-spacing: -0.03em;
+    text-decoration-line: underline;
+    color: #181717;
+
+}
+
+.organic {
+    position: absolute;
+    top: 172px;
+    left: 187px;
+    width: 104pxpx;
+    height: 44px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 121.5%;
+    letter-spacing: -0.03em;
+    color: #181717;
+}
